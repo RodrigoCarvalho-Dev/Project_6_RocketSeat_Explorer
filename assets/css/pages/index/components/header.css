@@ -1,0 +1,26 @@
+header {
+   
+    display: flex;
+    flex-direction: column;
+    align-content: start;
+    align-items: start;
+    justify-content: start;
+    
+}
+
+header h1  {
+    font-family: var(--mulish_font);
+    color: var(--color_blue);
+    font-size: 5.8rem;
+    font-weight: 900;
+
+}
+
+header h2 {
+
+    color: var(--color_white);
+    font-size: 3.2rem;
+    font-family: var(--mulish_font);
+    font-weight: 900;
+
+}
